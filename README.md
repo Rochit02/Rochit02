@@ -8,8 +8,7 @@ Welcome to my GitHub profile! I'm a passionate CTF player with a love for Cybers
 
 - 🎓 I am currently pursuing a B.Tech in CSE from Amrita Vishwa Vidyapeetham University.
 - 🌱 I’m currently learning topics related to web exploitation.
-- 👯 I’m looking to collaborate on web exploitation tools creation projects.
-<!-- - 🤔 I’m looking for help with [Projects or areas where you need help]. -->
+- 👯 I’m looking to collaborate on web exploitation tools creation projects. <!-- - 🤔 I’m looking for help with [Projects or areas where you need help]. -->
 - 💬 Ask me about Web exploitation.
 - 📫 How to reach me: madamanchi4@gmail.com
 - 😄 Pronouns: He/Him
@@ -18,9 +17,13 @@ Welcome to my GitHub profile! I'm a passionate CTF player with a love for Cybers
 ## 🛠 My Stack
 
 ### Languages
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 
 ### Frameworks and Libraries
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -35,6 +38,7 @@ Welcome to my GitHub profile! I'm a passionate CTF player with a love for Cybers
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
 
 ## 📈 GitHub Stats
@@ -46,38 +50,38 @@ Welcome to my GitHub profile! I'm a passionate CTF player with a love for Cybers
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rochit02&layout=compact&theme=radical)
 
 ## 📚 Latest Blog Posts
-
 <!-- BLOG-POST-LIST:START -->
 - [Title of Your Blog Post](link)
 - [Another Blog Post](link)
 <!-- BLOG-POST-LIST:END -->
-
 ➡️ [More blog posts...](https://yourbloglink.com)
 
 ## 🏆 Achievements
 
-- 🥇 [Achievement 1]
-- 🥈 [Achievement 2]
-- 🥉 [Achievement 3]
+- 🥇 1st place in Ideathon conducted in our college
+- 🥈 2nd place in Broken Coding, a competition held by CodeChef ASEB team 
+<!-- - 🥉 [Achievement 3]-->
 
 ## 📂 Projects
+- [Project 1](https://github.com/Rochit02/Token-Management-System): This project is designed to streamline the process of managing tokens at various service counters. It includes features for creating, deleting, and prioritizing tokens, as well as managing counter statuses and displaying queued tokens.
 
 ### 📌 Featured Project
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rochit02&repo=repositoryname&theme=radical)](https://github.com/Rochit02/write-up)
 
-### 🗂️ Other Projects
+---
 
-- [Project 1](https://github.com/Rochit02/project1): Brief description
-- [Project 2](https://github.com/Rochit02/project2): Brief description
-- [Project 3](https://github.com/Rochit02/project3): Brief description
+⭐️ Don't forget to give the project a star if you found it useful!
 
+<!--### 🗂️ Other Projects
+
+- [Project 1](https://github.com/Rochit02/Token-Management-System): This project is designed to streamline the process of managing tokens at various service counters. It includes features for creating, deleting, and prioritizing tokens, as well as managing counter statuses and displaying queued tokens.
+<!-- - [Project 2](https://github.com/Rochit02/project2): Brief description - [Project 3](https://github.com/Rochit02/project3): Brief description-->
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![Instagram](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/rochit-madamanchi-6063731b1)
+[![Instagram](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/phant0m.w36)
 <!--[![Personal Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=website&logoColor=white)](https://yourwebsite.com)-->
-
 ---
 
 ⭐️ From [Rochit02](https://github.com/Rochit02)
