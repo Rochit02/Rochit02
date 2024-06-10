@@ -15,16 +15,27 @@ Welcome to my GitHub profile! I'm a passionate CTF player with a love for Cybers
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once solved a CTF challenge blindfolded, relying only on my muscle memory and instinct!
 
-## 🛠️ Technologies & Tools
+## 🛠 My Stack
 
+### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-<!--![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)-->
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-<!--![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)-->
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+
+### Frameworks and Libraries
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+<!--![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)-->
+### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+### DevOps
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+<!--![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)-->
+### Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+
 
 ## 📈 GitHub Stats
 
