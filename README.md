@@ -1,19 +1,19 @@
-# 👋 Hi there, I'm [Rochit Madamanchi]!
+# 👋 Hi there, I'm Rochit Madamanchi!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rochit02&style=flat-square&color=blue) [![GitHub followers](https://img.shields.io/github/followers/Rochit02?label=Follow&style=social)](https://github.com/Rochit02/?tab=follow)
 
-Welcome to my GitHub profile! I'm a passionate [CTF player] with a love for [Cybersecurity]. Here you'll find some of my personal and collaborative projects.
+Welcome to my GitHub profile! I'm a passionate CTF player with a love for Cybersecurity. Here you'll find some of my personal and collaborative projects.
 
 ## 🚀 About Me
 
-- 🎓 I have a [B.Tech] in [CSE] from [Amrita Vishwa Vidyapeetham University].
-- 🌱 I’m currently learning [topics related to web exploitation].
-- 👯 I’m looking to collaborate on [web exploitation tools creation projects].
+- 🎓 I am currently pursuing a B.Tech in CSE from Amrita Vishwa Vidyapeetham University.
+- 🌱 I’m currently learning topics related to web exploitation.
+- 👯 I’m looking to collaborate on web exploitation tools creation projects.
 <!-- - 🤔 I’m looking for help with [Projects or areas where you need help]. -->
-- 💬 Ask me about [Web exploitation].
-- 📫 How to reach me: [madamanchi4@gmail.com].
-- 😄 Pronouns: [He/Him].
-- ⚡ Fun fact: [I once solved a CTF challenge blindfolded, relying only on my muscle memory and instinct!].
+- 💬 Ask me about Web exploitation.
+- 📫 How to reach me: madamanchi4@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I once solved a CTF challenge blindfolded, relying only on my muscle memory and instinct!
 
 ## 🛠️ Technologies & Tools
 
@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a passionate [CTF player] with a love for [Cyb
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rochit02&layout=compact&theme=radical)
 
---## 📚 Latest Blog Posts
+## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Title of Your Blog Post](link)
