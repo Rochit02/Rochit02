@@ -70,7 +70,7 @@ Here you'll find some of my personal and collaborative projects.
 
 ### 📌 Featured Project
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rochit02&repo=token-management-system&theme=radical)](https://github.com/Rochit02/write-up): Here you will find Solutions to few of the challanges which I have solved in CTFs.
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rochit02&repo=write-up&theme=radical)](https://github.com/Rochit02/write-up): Here you will find Solutions to few of the challanges which I have solved in CTFs.
 
 ---
 
