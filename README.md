@@ -64,7 +64,7 @@ Welcome to my GitHub profile! I'm a passionate [CTF player] with a love for [Cyb
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![Instagram](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+[![Instagram](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
 <!--[![Personal Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=website&logoColor=white)](https://yourwebsite.com)-->
 
 ---
