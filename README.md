@@ -91,3 +91,8 @@ Here you'll find some of my personal and collaborative projects.
 ---
 
 ⭐️ From [Rochit02](https://github.com/Rochit02)
+
+---
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
