@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Rochit02&style=flat-square&color=blue) [![GitHub followers](https://img.shields.io/github/followers/Rochit02?label=Follow&style=social)](https://github.com/Rochit02/?tab=follow)
 
 Welcome to my GitHub profile! 
-I'm a passionate [CTF player](https://ctftime.org/user/186252) with love for Cybersecurity. I am part of team bi0s which is ranked number 5 in the world and number 1 in India as given by [CTFtime](https://ctftime.org/team/662). 
+I'm a passionate [CTF player](https://ctftime.org/user/186252) with love for Cybersecurity. I am part of team bi0s which is ranked number 5 in the world and number 1 in India as per [CTFtime](https://ctftime.org/team/662). 
 Here you'll find some of my personal and collaborative projects.
 
 ## 🚀 About Me
