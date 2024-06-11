@@ -47,6 +47,8 @@ Here you'll find some of my personal and collaborative projects.
 
 ![Rochit02](https://github-readme-stats.vercel.app/api?username=Rochit02&show_icons=true&theme=radical)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rochit02&" alt="Rochit02" /></p>
+
 ## 📊 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rochit02&layout=compact&theme=radical)
