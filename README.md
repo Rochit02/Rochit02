@@ -88,6 +88,12 @@ Here you'll find some of my personal and collaborative projects.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/rochit-madamanchi-6063731b1)
 [![Instagram](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/phant0m.w36)
 <!--[![Personal Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=website&logoColor=white)](https://yourwebsite.com)-->
+
+## ☕️ Support
+
+If you like my work, you can buy me a coffee!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=flat-square&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/rochit)
 ---
 
 ⭐️ From [Rochit02](https://github.com/Rochit02)
