@@ -55,11 +55,11 @@ Here you'll find some of my personal and collaborative projects.
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Title of Your Blog Post](link)
-- [Another Blog Post](link)
+- [Understanding Cybersecurity: Protecting Our Digital World](https://medium.com/@madamanchi4/understanding-cybersecurity-protecting-our-digital-world-b48179b2f688)
+- [The Importance of Cybersecurity and Its Future: Protecting Our Digital World](https://medium.com/@madamanchi4/the-importance-of-cybersecurity-and-its-future-protecting-our-digital-world-3542364130b5)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [More blog posts...](https://yourbloglink.com)
+➡️ [More blog posts...](https://medium.com/@madamanchi4)
 
 ## 🏆 Achievements
 
@@ -87,7 +87,7 @@ Here you'll find some of my personal and collaborative projects.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/rochit-madamanchi-6063731b1)
 [![Instagram](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/phant0m.w36)
-<!--[![Personal Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=website&logoColor=white)](https://yourwebsite.com)-->
+[![Personal Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=website&logoColor=white)](https://rochit02.github.io)
 
 ## ☕️ Support
 
