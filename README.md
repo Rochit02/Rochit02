@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! 
 I'm a passionate [CTF player](https://ctftime.org/user/186252) with love for Cybersecurity. I am part of team bi0s which is ranked number 5 in the world and number 1 in India as per [CTFtime](https://ctftime.org/team/662). 
-Here you'll find some of my personal and collaborative projects.
+Here you'll find some of my personal<!-- and collaborative--> projects.
 
 ## 🚀 About Me
 
