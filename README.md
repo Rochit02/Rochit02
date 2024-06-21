@@ -68,7 +68,7 @@ Here you'll find some of my personal and collaborative projects.
 <!-- - 🥉 [Achievement 3]-->
 
 ## 📂 Projects
-- Token Management System (https://github.com/Rochit02/Token-Management-System): This project is designed to streamline the process of managing tokens at various service counters. It includes features for creating, deleting, and prioritizing tokens, as well as managing counter statuses and displaying queued tokens.
+- [Token Management System] (https://github.com/Rochit02/Token-Management-System): This project is designed to streamline the process of managing tokens at various service counters. It includes features for creating, deleting, and prioritizing tokens, as well as managing counter statuses and displaying queued tokens.
 
 ### 📌 Featured Project
 
